@@ -1,0 +1,710 @@
+[
+  {
+    "weight": "89",
+    "symbol": "Ac",
+    "name": "Actínio",
+    "latinName": "Actinium"
+  },
+  {
+    "weight": "47",
+    "symbol": "Ag",
+    "name": "Prata",
+    "latinName": "Argentum"
+  },
+  {
+    "weight": "13",
+    "symbol": "Al",
+    "name": "Alumínio",
+    "latinName": "Alumen"
+  },
+  {
+    "weight": "95",
+    "symbol": "Am",
+    "name": "Amerício",
+    "latinName": "Americium"
+  },
+  {
+    "weight": "18",
+    "symbol": "Ar",
+    "name": "Argônio",
+    "latinName": "Argon"
+  },
+  {
+    "weight": "33",
+    "symbol": "As",
+    "name": "Arsénio",
+    "latinName": "Arsenicum"
+  },
+  {
+    "weight": "85",
+    "symbol": "At",
+    "name": "Ástato",
+    "latinName": "Astatum"
+  },
+  {
+    "weight": "79",
+    "symbol": "Au",
+    "name": "Ouro",
+    "latinName": "Aurum"
+  },
+  {
+    "weight": "5",
+    "symbol": "B",
+    "name": "Boro",
+    "latinName": "Borium"
+  },
+  {
+    "weight": "56",
+    "symbol": "Ba",
+    "name": "Bário",
+    "latinName": "Barium"
+  },
+  {
+    "weight": "4",
+    "symbol": "Be",
+    "name": "Berílio",
+    "latinName": "Beryllium"
+  },
+  {
+    "weight": "107",
+    "symbol": "Bh",
+    "name": "Bóhrio",
+    "latinName": "Bohrium"
+  },
+  {
+    "weight": "83",
+    "symbol": "Bi",
+    "name": "Bismuto",
+    "latinName": "Bismuthum"
+  },
+  {
+    "weight": "97",
+    "symbol": "Bk",
+    "name": "Berquélio",
+    "latinName": "Berkelium"
+  },
+  {
+    "weight": "35",
+    "symbol": "Br",
+    "name": "Bromo",
+    "latinName": "Bromum"
+  },
+  {
+    "weight": "6",
+    "symbol": "C",
+    "name": "Carbono",
+    "latinName": "Carbonium"
+  },
+  {
+    "weight": "20",
+    "symbol": "Ca",
+    "name": "Cálcio",
+    "latinName": "Calcium"
+  },
+  {
+    "weight": "48",
+    "symbol": "Cd",
+    "name": "Cádmio",
+    "latinName": "Cadmium"
+  },
+  {
+    "weight": "58",
+    "symbol": "Ce",
+    "name": "Cério",
+    "latinName": "Cerium"
+  },
+  {
+    "weight": "98",
+    "symbol": "Cf",
+    "name": "Califórnio",
+    "latinName": "Californium"
+  },
+  {
+    "weight": "17",
+    "symbol": "Cl",
+    "name": "Cloro",
+    "latinName": "Clorum"
+  },
+  {
+    "weight": "96",
+    "symbol": "Cm",
+    "name": "Cúrio",
+    "latinName": "Curium"
+  },
+  {
+    "weight": "112",
+    "symbol": "Cn",
+    "name": "Copernício",
+    "latinName": "Copernicium"
+  },
+  {
+    "weight": "27",
+    "symbol": "Co",
+    "name": "Cobalto",
+    "latinName": "Cobaltum"
+  },
+  {
+    "weight": "24",
+    "symbol": "Cr",
+    "name": "Cromo",
+    "latinName": "Chromium"
+  },
+  {
+    "weight": "55",
+    "symbol": "Cs",
+    "name": "Césio",
+    "latinName": "Caesium"
+  },
+  {
+    "weight": "29",
+    "symbol": "Cu",
+    "name": "Cobre",
+    "latinName": "Cuprum"
+  },
+  {
+    "weight": "105",
+    "symbol": "Db",
+    "name": "Dúbnio",
+    "latinName": "Dubnium"
+  },
+  {
+    "weight": "110",
+    "symbol": "Ds",
+    "name": "Darmstácio",
+    "latinName": "Darmstadtium"
+  },
+  {
+    "weight": "66",
+    "symbol": "Dy",
+    "name": "Disprósio",
+    "latinName": "Dysprosium"
+  },
+  {
+    "weight": "68",
+    "symbol": "Er",
+    "name": "Érbio",
+    "latinName": "Erbium"
+  },
+  {
+    "weight": "99",
+    "symbol": "Es",
+    "name": "Einsténio",
+    "latinName": "Einsteinium"
+  },
+  {
+    "weight": "63",
+    "symbol": "Eu",
+    "name": "Európio",
+    "latinName": "Europium"
+  },
+  {
+    "weight": "9",
+    "symbol": "F",
+    "name": "Flúor",
+    "latinName": "Fluorum"
+  },
+  {
+    "weight": "26",
+    "symbol": "Fe",
+    "name": "Ferro",
+    "latinName": "Ferrum"
+  },
+  {
+    "weight": "114",
+    "symbol": "Fl",
+    "name": "Fleróvio",
+    "latinName": "Flerovium"
+  },
+  {
+    "weight": "100",
+    "symbol": "Fm",
+    "name": "Férmio",
+    "latinName": "Fermium"
+  },
+  {
+    "weight": "87",
+    "symbol": "Fr",
+    "name": "Frâncio",
+    "latinName": "Francium"
+  },
+  {
+    "weight": "31",
+    "symbol": "Ga",
+    "name": "Gálio",
+    "latinName": "Galium"
+  },
+  {
+    "weight": "64",
+    "symbol": "Gd",
+    "name": "Gadolínio",
+    "latinName": "Gadolinium"
+  },
+  {
+    "weight": "32",
+    "symbol": "Ge",
+    "name": "Germânio",
+    "latinName": "Germanium"
+  },
+  {
+    "weight": "1",
+    "symbol": "H",
+    "name": "Hidrogênio",
+    "latinName": "Hydrogenium"
+  },
+  {
+    "weight": "2",
+    "symbol": "He",
+    "name": "Hélio",
+    "latinName": "Helium"
+  },
+  {
+    "weight": "72",
+    "symbol": "Hf",
+    "name": "Háfnio",
+    "latinName": "Hafnium"
+  },
+  {
+    "weight": "80",
+    "symbol": "Hg",
+    "name": "Mercúrio",
+    "latinName": "Hydrargyrum"
+  },
+  {
+    "weight": "67",
+    "symbol": "Ho",
+    "name": "Hólmio",
+    "latinName": "Holmium"
+  },
+  {
+    "weight": "108",
+    "symbol": "Hs",
+    "name": "Hássio",
+    "latinName": "Hassium"
+  },
+  {
+    "weight": "53",
+    "symbol": "I",
+    "name": "Iodo",
+    "latinName": "Iodum"
+  },
+  {
+    "weight": "49",
+    "symbol": "In",
+    "name": "Índio",
+    "latinName": "Indium"
+  },
+  {
+    "weight": "77",
+    "symbol": "Ir",
+    "name": "Irídio",
+    "latinName": "Iridium"
+  },
+  {
+    "weight": "19",
+    "symbol": "K",
+    "name": "Potássio",
+    "latinName": "Kalium"
+  },
+  {
+    "weight": "36",
+    "symbol": "Kr",
+    "name": "Criptônio",
+    "latinName": "Krypton"
+  },
+  {
+    "weight": "57",
+    "symbol": "La",
+    "name": "Lantânio",
+    "latinName": "Lanthanum"
+  },
+  {
+    "weight": "3",
+    "symbol": "Li",
+    "name": "Lítio",
+    "latinName": "Lithium"
+  },
+  {
+    "weight": "103",
+    "symbol": "Lr",
+    "name": "Laurêncio",
+    "latinName": "Lawrencium"
+  },
+  {
+    "weight": "71",
+    "symbol": "Lu",
+    "name": "Lutécio",
+    "latinName": "Lutetium"
+  },
+  {
+    "weight": "116",
+    "symbol": "Lv",
+    "name": "Livermório",
+    "latinName": "Livermorium"
+  },
+  {
+    "weight": "115",
+    "symbol": "Mc",
+    "name": "Moscóvio",
+    "latinName": "Moscovium"
+  },
+  {
+    "weight": "101",
+    "symbol": "Md",
+    "name": "Mendelévio",
+    "latinName": "Mendelevium"
+  },
+  {
+    "weight": "12",
+    "symbol": "Mg",
+    "name": "Magnésio",
+    "latinName": "Magnesium"
+  },
+  {
+    "weight": "25",
+    "symbol": "Mn",
+    "name": "Manganês",
+    "latinName": "Manganum"
+  },
+  {
+    "weight": "42",
+    "symbol": "Mo",
+    "name": "Molibdénio",
+    "latinName": "Molybdenum"
+  },
+  {
+    "weight": "109",
+    "symbol": "Mt",
+    "name": "Meitnério",
+    "latinName": "Meitnerium"
+  },
+  {
+    "weight": "7",
+    "symbol": "N",
+    "name": "Nitrogênio",
+    "latinName": "Nitrogenium"
+  },
+  {
+    "weight": "11",
+    "symbol": "Na",
+    "name": "Sódio",
+    "latinName": "Natrium"
+  },
+  {
+    "weight": "41",
+    "symbol": "Nb",
+    "name": "Nióbio",
+    "latinName": "Niobium"
+  },
+  {
+    "weight": "60",
+    "symbol": "Nd",
+    "name": "Neodímio",
+    "latinName": "Neodymium"
+  },
+  {
+    "weight": "10",
+    "symbol": "Ne",
+    "name": "Neônio",
+    "latinName": "Neon"
+  },
+  {
+    "weight": "113",
+    "symbol": "Nh",
+    "name": "Nipônio",
+    "latinName": "Nihonium"
+  },
+  {
+    "weight": "28",
+    "symbol": "Ni",
+    "name": "Níquel",
+    "latinName": "Niccolum"
+  },
+  {
+    "weight": "102",
+    "symbol": "No",
+    "name": "Nobélio",
+    "latinName": "Nobelium"
+  },
+  {
+    "weight": "93",
+    "symbol": "Np",
+    "name": "Ne(p)túnio",
+    "latinName": "Neptunium"
+  },
+  {
+    "weight": "8",
+    "symbol": "O",
+    "name": "Oxigênio",
+    "latinName": "Oxygenium"
+  },
+  {
+    "weight": "118",
+    "symbol": "Og",
+    "name": "Oganésson",
+    "latinName": "Oganesson"
+  },
+  {
+    "weight": "76",
+    "symbol": "Os",
+    "name": "Ósmio",
+    "latinName": "Osmium"
+  },
+  {
+    "weight": "15",
+    "symbol": "P",
+    "name": "Fósforo",
+    "latinName": "Phosphorus"
+  },
+  {
+    "weight": "91",
+    "symbol": "Pa",
+    "name": "Protactínio",
+    "latinName": "Protactinium"
+  },
+  {
+    "weight": "82",
+    "symbol": "Pb",
+    "name": "Chumbo",
+    "latinName": "Plumbum"
+  },
+  {
+    "weight": "46",
+    "symbol": "Pd",
+    "name": "Paládio",
+    "latinName": "Palladium"
+  },
+  {
+    "weight": "61",
+    "symbol": "Pm",
+    "name": "Promécio",
+    "latinName": "Promethium"
+  },
+  {
+    "weight": "84",
+    "symbol": "Po",
+    "name": "Polônio",
+    "latinName": "Polonium"
+  },
+  {
+    "weight": "59",
+    "symbol": "Pr",
+    "name": "Praseodímio",
+    "latinName": "Praseodymium"
+  },
+  {
+    "weight": "78",
+    "symbol": "Pt",
+    "name": "Platina",
+    "latinName": "Platinum"
+  },
+  {
+    "weight": "94",
+    "symbol": "Pu",
+    "name": "Plutônio",
+    "latinName": "Plutonium"
+  },
+  {
+    "weight": "88",
+    "symbol": "Ra",
+    "name": "Rádio",
+    "latinName": "Radium"
+  },
+  {
+    "weight": "37",
+    "symbol": "Rb",
+    "name": "Rubídio",
+    "latinName": "Rubidium"
+  },
+  {
+    "weight": "75",
+    "symbol": "Re",
+    "name": "Rênio",
+    "latinName": "Rhenium"
+  },
+  {
+    "weight": "104",
+    "symbol": "Rf",
+    "name": "Rutherfórdio",
+    "latinName": "Rhuterfordium"
+  },
+  {
+    "weight": "111",
+    "symbol": "Rg",
+    "name": "Roentgénio",
+    "latinName": "Roentgenium"
+  },
+  {
+    "weight": "45",
+    "symbol": "Rh",
+    "name": "Ródio",
+    "latinName": "Rhodium"
+  },
+  {
+    "weight": "86",
+    "symbol": "Rn",
+    "name": "Rádon",
+    "latinName": "Radon"
+  },
+  {
+    "weight": "44",
+    "symbol": "Ru",
+    "name": "Rutênio",
+    "latinName": "Ruthenium"
+  },
+  {
+    "weight": "16",
+    "symbol": "S",
+    "name": "Enxofre",
+    "latinName": "Sulphur"
+  },
+  {
+    "weight": "51",
+    "symbol": "Sb",
+    "name": "Antimônio",
+    "latinName": "Stibium"
+  },
+  {
+    "weight": "21",
+    "symbol": "Sc",
+    "name": "Escândio",
+    "latinName": "Scandium"
+  },
+  {
+    "weight": "34",
+    "symbol": "Se",
+    "name": "Selénio",
+    "latinName": "Selenium"
+  },
+  {
+    "weight": "106",
+    "symbol": "Sg",
+    "name": "Seabórgio",
+    "latinName": "Seaborgium"
+  },
+  {
+    "weight": "14",
+    "symbol": "Si",
+    "name": "Silício",
+    "latinName": "Silicium"
+  },
+  {
+    "weight": "62",
+    "symbol": "Sm",
+    "name": "Samário",
+    "latinName": "Samarium"
+  },
+  {
+    "weight": "50",
+    "symbol": "Sn",
+    "name": "Estanho",
+    "latinName": "Stannum"
+  },
+  {
+    "weight": "38",
+    "symbol": "Sr",
+    "name": "Estrôncio",
+    "latinName": "Strontium"
+  },
+  {
+    "weight": "73",
+    "symbol": "Ta",
+    "name": "Tântalo",
+    "latinName": "Tantalum"
+  },
+  {
+    "weight": "65",
+    "symbol": "Tb",
+    "name": "Térbio",
+    "latinName": "Terbium"
+  },
+  {
+    "weight": "43",
+    "symbol": "Tc",
+    "name": "Tecnécio",
+    "latinName": "Technetium"
+  },
+  {
+    "weight": "52",
+    "symbol": "Te",
+    "name": "Telúrio",
+    "latinName": "Tellurium"
+  },
+  {
+    "weight": "90",
+    "symbol": "Th",
+    "name": "Tório",
+    "latinName": "Thorium"
+  },
+  {
+    "weight": "22",
+    "symbol": "Ti",
+    "name": "Titânio",
+    "latinName": "Titanium"
+  },
+  {
+    "weight": "81",
+    "symbol": "Tl",
+    "name": "Tálio",
+    "latinName": "Thallium"
+  },
+  {
+    "weight": "69",
+    "symbol": "Tm",
+    "name": "Túlio",
+    "latinName": "Thulium"
+  },
+  {
+    "weight": "117",
+    "symbol": "Ts",
+    "name": "Tenesso",
+    "latinName": "Tennessine"
+  },
+  {
+    "weight": "92",
+    "symbol": "U",
+    "name": "Urânio",
+    "latinName": "Uranium"
+  },
+  {
+    "weight": "23",
+    "symbol": "V",
+    "name": "Vanádio",
+    "latinName": "Vanadium"
+  },
+  {
+    "weight": "74",
+    "symbol": "W",
+    "name": "Tungstênio",
+    "latinName": "Wolframium"
+  },
+  {
+    "weight": "54",
+    "symbol": "Xe",
+    "name": "Xenônio",
+    "latinName": "Xenon"
+  },
+  {
+    "weight": "39",
+    "symbol": "Y",
+    "name": "Ítrio",
+    "latinName": "Yttrium"
+  },
+  {
+    "weight": "70",
+    "symbol": "Yb",
+    "name": "Itérbio",
+    "latinName": "Ytterbium"
+  },
+  {
+    "weight": "30",
+    "symbol": "Zn",
+    "name": "Zinco",
+    "latinName": "Zincum"
+  },
+  {
+    "weight": "40",
+    "symbol": "Zr",
+    "name": "Zircônio",
+    "latinName": "Zirconium"
+  }
+]
